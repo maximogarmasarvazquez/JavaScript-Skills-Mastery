@@ -1,4 +1,4 @@
-# 🧠 JavaScript – Control Flow
+# 🧠 1002 JavaScript – Control Flow
 
 Este repositorio contiene ejemplos prácticos y explicaciones detalladas sobre uno de los pilares fundamentales en la programación con JavaScript: **el flujo de control**. Aquí exploramos cómo hacer que el programa tome decisiones y repita acciones según ciertas condiciones.
 
@@ -7,7 +7,10 @@ Este repositorio contiene ejemplos prácticos y explicaciones detalladas sobre u
 ## 📌 Tema: Control Flow
 
 **Descripción:**  
-Uso de instrucciones condicionales y bucles en JavaScript. Se incluyen `if`, `else`, `switch`, `for`, `while` y `do...while`.
+Uso de instrucciones condicionales y bucles en JavaScript. Se incluyen:
+
+- Condicionales: `if`, `else`, `switch`.
+- Bucles: `for`, `while`, `do...while`.
 
 ---
 
@@ -18,7 +21,6 @@ Uso de instrucciones condicionales y bucles en JavaScript. Se incluyen `if`, `el
 Las condicionales permiten que tu programa ejecute diferentes bloques de código dependiendo del valor de ciertas expresiones lógicas.
 
 #### ✅ `if` / `else if` / `else`
-Estructura básica de decisión.
 
 ```js
 const edad = 20;

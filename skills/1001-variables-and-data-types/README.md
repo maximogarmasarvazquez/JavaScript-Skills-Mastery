@@ -1,4 +1,4 @@
-# 🧠 Ejercicio 01 - Variables and Data Types
+# 🧠1001 Variables and Data Types
 
 ## 📝 Descripción
 
